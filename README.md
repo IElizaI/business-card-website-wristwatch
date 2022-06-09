@@ -1,7 +1,7 @@
 :watch::watch::watch:**<h1 style="text-align: center">Магазин часов с возможностью заказа/изготовления уникальных моделей</h1>**
 ![](https://i.imgur.com/pbXPQku.jpg)
 
-### **[Ссылка на приложение](https://wristwatches.herokuapp.com)** :point_left::point_left::point_left:
+### **[Ссылка на сайт](https://wristwatches.herokuapp.com){:target="_blank"}** :point_left::point_left::point_left:
 
 <p>&nbsp;</p>
 
